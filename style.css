@@ -1,0 +1,45 @@
+*{
+}
+body{
+    background-image: url(aliengirl.png);
+    background-size: cover;
+}
+#box1 {
+    width: 293px;
+    height: 513px;
+    opacity: 0.5;
+    background-color: #dbc500;
+    border: 1px #dbc500;
+    outline: none;
+    display: inline-block;
+}
+#box2 {
+    width: 293px;
+    height: 513px;
+    opacity: 0.4;
+    background-color: #dbc500;
+    border: 1px #dbc500;
+    outline: none;
+    display: inline-block
+;   margin-left: 11px;
+}
+#box3 {
+    width: 293px;
+    height: 513px;
+    opacity: 0.7;
+    background-color: #dbc500;
+    border: 1px #dbc500;
+    outline: none;
+    display: inline-block
+;   margin-left: 11px;
+}
+#box4 {
+    width: 293px;
+    height: 513px;
+    opacity: 0.3;
+    background-color: #dbc500;
+    border: 1px #dbc500;
+    outline: none;
+    display: inline-block
+;   margin-left: 11px;
+}
